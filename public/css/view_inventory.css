@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sub_menu{
+    display:flex;
+    margin-top:50px;
+   
+
+}
+.search_by_branch{
+    
+    width:200px;
+    margin-left:40%;
+    
+}
+.table-responsive{
+    margin-top:40px;
+   
+}
